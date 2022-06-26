@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864
+  secret: value1
+
+gateway:
+  ip: localhost
